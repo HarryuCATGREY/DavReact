@@ -1,7 +1,7 @@
-#Bug Report 🐛
+# Bug Report 🐛
 在`addItem.js中第15行`setNewItem会不被认为成一个函数
 
-#To Reproduce
+# To Reproduce
 `npm start`后，点击输入框，产看浏览器console log
 
 
